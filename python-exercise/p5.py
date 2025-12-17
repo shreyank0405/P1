@@ -5,3 +5,6 @@ for i in num:
         print(i,"is even")
     else:
         print(i,"is odd")
+
+
+

@@ -1,4 +1,4 @@
 names=["cat","elephant","dog","tiger"]
 for i in names:
-    if len(names) >= 3:
+    if len(names)<=4:
         print(names)

@@ -1,5 +1,5 @@
 #Multiplication table
-num=5
+num=int(input("enter the numbre"))
 for i in range(1,11):
-    print( num, "*", i, "=", 5 * i)
+    print( num, "*", i, "=", num * i)
 
